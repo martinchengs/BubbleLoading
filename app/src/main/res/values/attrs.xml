@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<declare-styleable name="BubbleLoadingView">
+    <attr name="leftBubbleColor" format="color"/>
+    <attr name="rightBubbleColor" format="color"/>
+    <attr name="bubbleRadius" format="dimension"/>
+</declare-styleable>
+
+
+
+</resources>
